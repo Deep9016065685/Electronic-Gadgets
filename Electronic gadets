@@ -1,0 +1,608 @@
+<html>
+<head>
+<style>
+<!-- css code for slider -->
+.mySlides {display:none;}
+<!-- css code for end slider -->
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 300px;
+	padding: 8px 10px;
+	text-align: left;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover{background-color:#808080;
+}
+th:hover{background-color:#808080;
+}
+b:hover{background-color:#808080;
+}
+a{text-decoration:none;}
+#transform:hover{
+	transform:scale(1.1);
+}
+</style>
+<title>Electronic gadgets</title>
+</head>
+<body bgcolor="#F1F3F6">
+<table border="0" width="100%" bgcolor="white">
+
+<tr>
+<th><div class="dropdown">
+<span><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\home page footre\hamburger-menu-512.png" width="40" height="40"></span>
+<div class="dropdown-content" >
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\Elektronic gadgets.html"><b>Home</b></p>
+	<p><b>Shop by Category</b></p>
+	<p><b>Today's Deals</b></p>
+	<hr>
+	<p><b>Buy Again</b></p>
+	<p><b>Your Account</b></p>
+	<p><b>Setting</b></p></th>
+<td align="right"><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\4d93191e73132d699835167521c5edad.jpg" width="160" height="60"></td>
+<td><input type="text" placeholder="what are you looking for?" style="width:550px;height:35px;">
+<input type="button" value="serch" style="width:95px;height:35px;"></td>
+<th><div class="dropdown">
+<span>more</span>
+<div class="dropdown-content">
+	<p><b>Notification preferences</b></p>
+	<p><b>Sell on Electronic Gadgets</b></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\other\24x7 customer car.html"><b>24x7 Customer Care</b></a></p>
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\Advertise.html"><p><b>Advertise</b></p></a></th>
+	<th><a href="C:\Users\PREMIUM\Desktop\HTML\website\login form.html"><p>Logout</p></a></th>
+<th><a href="C:\Users\PREMIUM\Desktop\HTML\website\About us.html">About Us</a></th>
+<th><a href="C:\Users\PREMIUM\Desktop\HTML\website\cart form.html"><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\download 1.png" width="50" height="50"></th>
+<table border="0" width="100%" bgcolor="#F1F3F6" height="8%">
+<tr>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\mobile\mobil,computer.html">Mobile Phone</a></span>
+<div class="dropdown-content">
+<table border="0" width="100%" bgcolor="#f9f9f9">
+<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Mi\mobil,computer.html"><b>Mi</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Realme\mobil,computer.html"><b>Realme</b></a></td>
+</tr>
+	<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Samusung\mobil,computer.html"><b>Samsung</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Infinix\mobil,computer.html"><b>Infinix</b></a></td>
+</tr>
+<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\OPPO\mobil,computer.html"><b>OPPO</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Apple\mobil,computer.html"><b>Apple</b></a></td>
+</tr>
+<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo\mobil,computer.html"><b>Vivo</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Honor\mobil,computer.html"><b>Honor</b></a></td>
+</tr>
+<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Samsung S10 Lite\mobil,computer.html"><b>Samsung S10 Lite</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo Z1 pro\mobil,computer.html"><b>Vivo Z1Pro</b></a></td>
+</tr>
+<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\OPPO F15\mobil,computer.html"><b>OPPO F15</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\realme X2\mobil,computer.html"><b>realme X2</b></a></td>
+</tr>
+<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Asus\mobil,computer.html"><b>Asus</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\realme 5i\mobil,computer.html"><b>realme 5i</b></a></td>
+</tr>
+<tr>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Redmi 8A\mobil,computer.html"><b>Redmi 8A</b></a></td>
+	<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Asus Rog phone II\mobil,computer.html"><b>Asus Rog Phone II</b></a></td>
+</tr>
+</th>
+</table>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\computer\mobil,computer.html">Computer</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Hp\mobil,computer.html"><b>HP</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Dell\mobil,computer.html"><b>Dell</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Lenovo\mobil,computer.html"><b>Lenovo</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Apple\mobil,computer.html"><b>Apple</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Asus\mobil,computer.html"><b>Asus</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Circle\mobil,computer.html"><b>Circle</b></a></p>
+</th>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\tab\mobil,computer.html">Tablet</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Samsung\mobil,computer.html"><b>Samsung</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Apple\mobil,computer.html"><b>Apple</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Lenovo\mobil,computer.html"><b>Lenovo</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\iBall\mobil,computer.html"><b>iBall</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Alcatel\mobil,computer.html"><b>Alcatel</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Honor\mobil,computer.html"><b>Honor</b></a></p>
+</th>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\tv\mobil,computer.html">Television</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\LG\mobil,computer.html"><b>LG</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Mi\mobil,computer.html"><b>Mi</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Coocaa\mobil,computer.html"><b>Coocaa</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Sony\mobil,computer.html"><b>Sony</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Samsung\mobil,computer.html"><b>Samsung</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Vu\mobil,computer.html"><b>Vu</b></a></p>
+</th>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\washing machin\faltu.html">Washing Machine</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Samsung\faltu.html"><b>Samsung</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\IFB\faltu.html"><b>IFB</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\LG\faltu.html"><b>LG</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Whirlpool\faltu.html"><b>Whirlpool</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Bosch\faltu.html"><b>Bosch</b></a></p>
+</th>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\watch\faltu.html">Watch</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><b>Rado</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Fastrake\faltu.html"><b>Fastrake</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><b>Titan</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Casio\faltu.html"><b>Casio</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Fossil\faltu.html"><b>Fossil</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Timex\faltu.html"><b>Timex</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Sonata\faltu.html"><b>Sonata</b></a></p>
+</th>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\sepker\faltu.html">Speaker</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\philips\faltu.html"><b>Philips</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Sony\faltu.html"><b>Sony</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\JBL\faltu.html"><b>JBL</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Boat\faltu.html"><b>boat</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Blaupunkt\faltu.html"><b>Blaupunkt</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Roar\faltu.html"><b>ROAR</b></a></p>
+</th>
+<th width="11.11%"><div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\ac\faltu.html">Air Conditioners</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Voltas\faltu.html"><b>Voltas</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\LG\faltu.html"><b>LG</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Blue Star\faltu.html"><b>Blue Star</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Lioyd\faltu.html"><b>Lioyd</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Hitachi\faltu.html"><b>Hitachi</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Heavy Duty\faltu.html"><b>Heavy Duty</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Samsung\faltu.html"><b>Samsung</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Haier\faltu.html"><b>Haier</b></a></p>
+</th>
+<th width="11.11%">
+<div class="dropdown">
+<span><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\hader\frrez\faltu.html">Refrigerator</a></span>
+<div class="dropdown-content">
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\LG\faltu.html"><b>LG</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><b>Samsung</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Whirlpool\faltu.html"><b>Whirlpool</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Haier\faltu.html"><b>Haier</b></a></p>
+	<p><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Crompton\faltu.html"><b>Crompton</b></a></p>
+</th>
+</tr>
+</table>
+
+<div class="w3-content w3-section" style="max-width:1350px">
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Annotation 2020-02-03 160555-1.png" style="width:100%" height="40%"></a>
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Annotation 2020-02-03 161055.png" style="width:100%" height="40%"></a>
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Fastrake\faltu.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Annotation 2020-02-03 161513.png" style="width:100%" height="40%"></a>
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\realme 5i\mobil,computer.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Annotation 2020-02-03 162054-12.png" style="width:100%" height="40%"></a>
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\OPPO\mobil,computer.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Annotation 2020-02-03 163109dfgrf.png" style="width:100%" height="40%"></a>
+    <a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Samusung\mobil,computer.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\slider\Annotation 2020-02-07 153436.png" style="width:100%" height="40%"></a>
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo Z1 pro\mobil,computer.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\slider\Annotation 2020-02-07 190359.png" style="width:100%" height="40%"></a>
+	<a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo Z1 pro\mobil,computer.html"><img class="mySlides" src="C:\Users\PREMIUM\Desktop\HTML\website\photos\slider\Annotation 2020-02-07 191318.png" style="width:100%" height="40%"></a>
+</div>
+
+<br><br>
+
+<table border="0" width="100%" bgcolor="white">
+<tr width="100%">
+<td colspan="5" width="10%"><h3>Mobile Phone</h3></td>
+<td width="3%"><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\slider\unnamed (1).png" width="100%" height="8%"></td>
+<td width="70%"><b><font color="gray"><p id="demo"></p></td><hr>
+</tr>
+</table>
+<table border="0" width="100%" bgcolor="white">
+<tr>
+<td width="20%"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo Z1 pro\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\phon\mobile\shopping (1).png" width="70" height="120" id="transform"></a></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\OPPO F15\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\phon\download (1).png" width="160" height="120"></a></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\phon\61Ayh-0gRVL._SL1000_.png" width="160" height="120"></a></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Apple\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\phon\71TP-gphxVL._SX425_.png" width="160" height="120"></a></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Apple\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\phon\apple-iphone-xr-64gb-blue.png" width="160" height="120"></a></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo Z1 pro\mobil,computer.html"><center><font color="blue">Vivo V11 Pro</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\OPPO F15\mobil,computer.html"><center><font color="blue">Oppo K5</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo\mobil,computer.html"><center><font color="blue">OnePlus 6T</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Apple\mobil,computer.html"><center><font color="blue">Apple iPhon 11Pro Max</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Apple\mobil,computer.html"><center><font color="blue">Apple iPhon 6</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo Z1 pro\mobil,computer.html"><center><font color="Red">$111</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\OPPO F15\mobil,computer.html"><center><font color="Red">$278</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Vivo\mobil,computer.html"><center><font color="Red">$348</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Apple\mobil,computer.html"><center><font color="Red">$1,720</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\mobile\Apple\mobil,computer.html"><center><font color="Red">$209</font></td>
+</tr>
+</table>
+
+<table border="0" width="100%" bgcolor="white">
+<tr>
+
+<td colspan="5"><h3>Computer</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Apple\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\computer\images.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Dell\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\computer\download  (1).png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Dell\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\computer\dell-na-laptop-original-imaf9hu5s9agphju.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Lenovo\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\computer\shopping 1.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Apple\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\computer\download  1.png" width="160" height="120"></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Apple\mobil,computer.html"><center><font color="blue">Apple MacBook Air</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Dell\mobil,computer.html"><center><font color="blue">Dell Inspiron i3277</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Dell\mobil,computer.html"><center><font color="blue">Dell Inspiron</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Lenovo\mobil,computer.html"><center><font color="blue">Lenovo Yoga</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Apple\mobil,computer.html"><center><font color="blue">Apple Core 15</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Apple\mobil,computer.html"><center><font color="Red">$860</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Dell\mobil,computer.html"><center><font color="Red">$888</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Dell\mobil,computer.html"><center><font color="Red">$654</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Lenovo\mobil,computer.html"><center><font color="Red">$599</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\computer\Apple\mobil,computer.html"><center><font color="Red">$1,944</font></td>
+</tr>
+<br>
+<table border="0" width="100%" bgcolor="white">
+<tr>
+<td colspan="5"><h3>Tablet</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Honor\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tablet\tab.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Samsung\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tablet\shopping (1).png" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Apple\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tablet\shopping_1.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Samsung\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tablet\tab1.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Lenovo\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tablet\tab_1.png" width="160" height="120"></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Honor\mobil,computer.html"><center><font color="blue">Honor Pad 5</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Samsung\mobil,computer.html"><center><font color="blue">Samsung Galaxy Tab</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Apple\mobil,computer.html"><center><font color="blue">Apple iPad Pro</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Samsung\mobil,computer.html"><center><font color="blue">Samsung Galaxy Tab</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Lenovo\mobil,computer.html"><center><font color="blue">Lenovo Smart Tab</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Honor\mobil,computer.html"><center><font color="Red">$264</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Samsung\mobil,computer.html"><center><font color="Red">$469</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Apple\mobil,computer.html"><center><font color="Red">$1,187</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Samsung\mobil,computer.html"><center><font color="Red">$200</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tab\Lenovo\mobil,computer.html"><center><font color="Red">$334</font></td>
+</tr>
+<br>
+<table border="0" width="100%" bgcolor="white">
+<tr>
+<td colspan="5"><h3>Television</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Samsung\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tv\shopping (2).png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\LG\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tv\shopping (3).png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Sony\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tv\download (2).png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Mi\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tv\1.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Samsung\mobil,computer.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\tv\2.png" width="160" height="120"></td>
+</tr><tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Samsung\mobil,computer.html"><center><font color="blue">Samsung 125cm 4K</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\LG\mobil,computer.html"><center><font color="blue">LG 164cm 4K Ultra HD</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Sony\mobil,computer.html"><center><font color="blue">Sony Bravia W672f</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Mi\mobil,computer.html"><center><font color="blue">Mi LED TV 4A Pro</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Samsung\mobil,computer.html"><center><font color="blue">Samsung Series 7</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Samsung\mobil,computer.html"><center><font color="Red">$994</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\LG\mobil,computer.html"><center><font color="Red">$1,277</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Sony\mobil,computer.html"><center><font color="Red">$477</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Mi\mobil,computer.html"><center><font color="Red">$305</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\tv\Samsung\mobil,computer.html"><center><font color="Red">$3,618</font></td>
+</tr>
+<br>
+<table border="0" width="100%" bgcolor="white">
+<tr>
+<td colspan="5"><h3>Washing Machine</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\LG\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\washing machin\download (3).png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\LG\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\washing machin\shopping (4).png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Samsung\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\washing machin\shop.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Bosch\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\washing machin\4.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Whirlpool\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\washing machin\shop1.png" width="160" height="120"></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\LG\faltu.html "><center><font color="blue">LG 6.5 kg Inverter Washing<br> Machine</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\LG\faltu.html"><center><font color="blue">LG 8 kg Inverter Washing<br> Machine</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Samsung\faltu.html"><center><font color="blue">Samsung 6.2 kg Washing<br> Machine</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Bosch\faltu.html"><center><font color="blue">Bosch 6.5 kg Washing<br> Machine</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Whirlpool\faltu.html"><center><font color="blue">Whirlpool 7.5 kg Washing<br> Machine</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\LG\faltu.html"><center><font color="Red">$500</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\LG\faltu.html"><center><font color="Red">$4,859</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Samsung\faltu.html"><center><font color="Red">$244</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Bosch\faltu.html"><center><font color="Red">$409</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\washing machin\Whirlpool\faltu.html"><center><font color="Red">$243</font></td>
+</tr>
+<br>
+<table border="0" width="100%" bgcolor="white">
+<tr>
+<td colspan="5"><h3>Watch</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\watch\download7.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\watch\shopping6.png" width="110" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\watch\shopping5.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\watch\fmdskfmdskmv.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\watch\efdfdssv.png" width="160" height="120"></td>
+</tr><tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><font color="blue">Rado Centrix R30035712</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><font color="blue">Rado Hyperchrome</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><font color="blue">Rado Hyperchrome Automatic <br>Watch</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><center><font color="blue">Titan Edge Blue Dial Analog <br>Watch for Men</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><center><font color="blue">Titan Raga Watches</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><font color="Red">$2,100</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><font color="Red">$1,500</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Rado\faltu.html"><center><font color="Red">$4,550</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><center><font color="Red">$327</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\watch\Titan\faltu.html"><center><font color="Red">$250</font></td>
+</tr>
+<br>
+<table border="0" width="100%" bgcolor="white">
+<tr>
+<td colspan="5"><h3>Speaker</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Sony\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Spakeer\ssjfcsdv.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\JBL\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Spakeer\egfgergfdbf.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Boat\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Spakeer\4t34regef.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Sony\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Spakeer\fdbf xbsvffff.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\JBL\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Spakeer\thmgknmkg.png" width="160" height="120"></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Sony\faltu.html"><center><font color="blue">Sony Party Speaker</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\JBL\faltu.html"><center><font color="blue">JBL Charge 4 Bluetooth Speaker</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Boat\faltu.html"><center><font color="blue">Devialet Phantom Reactor 600 Wireless Speaker</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Sony\faltu.html"><center><font color="blue">Sony Music System With Lighting Effects</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\JBL\faltu.html"><center><font color="blue">JBL PartyBox 1000 Bluetooth Speaker</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Sony\faltu.html"><center><font color="Red">$230</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\JBL\faltu.html"><center><font color="Red">$180</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Boat\faltu.html"><center><font color="Red">$1,910</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\Sony\faltu.html"><center><font color="Red">$795</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\sepker\JBL\faltu.html"><center><font color="Red">$2,480</font></td>
+</tr>
+<br>
+<table border="0" width="100%" bgcolor="white">
+<tr>
+<td colspan="5"><h3>Air Conditioners</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\LG\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\ac\download (4).png" width="160" height="90"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Blue Star\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\ac\6565695985154.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Hitachi\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\ac\dyhtr7568.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Haier\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\ac\aggtrb.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Blue Star\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\ac\xcbxcb.png" width="160" height="120"></td>
+</tr><tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\LG\faltu.html"><center><font color="blue">LG 1.5 Ton 3 Star Hot and Cold inverter Split AC</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Blue Star\faltu.html"><center><font color="blue">Mitsubishi Heavy Duty AC</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Hitachi\faltu.html"><center><font color="blue">Hitachi 1.5 Ton 3 Star Inverter Split AC</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Haier\faltu.html"><center><font color="blue">Carrier 1.5 Ton 3 Star Split AC</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Blue Star\faltu.html"><center><font color="blue">Daikin 3.8 Ton Floor Standing AC</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\LG\faltu.html"><center><font color="Red">$570</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Blue Star\faltu.html"><center><font color="Red">$830</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Hitachi\faltu.html"><center><font color="Red">$525</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Haier\faltu.html"><center><font color="Red">$445</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\ac\Blue Star\faltu.html"><center><font color="Red">$1,920</font></td>
+</tr>
+<br>
+<table border="0" width="100%" bgcolor="white">
+<tr><br>
+<td colspan="5"><h3>Refrigerator</h3><hr></td>
+</tr>
+<tr>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Refrigerator\shopping (5).png" width="100" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Refrigerator\regtrhbt.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\LG\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Refrigerator\gfbgfntrn.png" width="160" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Refrigerator\fgbrhbf.png" width="90" height="120"></td>
+<td width="20%" id="transform"><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><img src="C:\Users\PREMIUM\Desktop\HTML\website\photos\Refrigerator\fdddvb.png" width="160" height="120"></td>
+</tr><tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="blue">Samsung 674 L Frost Free Side-by-Side Refrigerator</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="blue">Samsung 810 L Frost Free Side Refrigerator</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\LG\faltu.html"><center><font color="blue">LG 984 L Side By Side French Door Refrigerator</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="blue">Samsung 415 L 2 Star Frost Free Double Door Inverter Refrigerator</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="blue">Samsung 689 L Frost Inverter Refrigerator</font></td>
+</tr>
+<tr>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="Red">$1,459</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="Red">$3,801</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\LG\faltu.html"><center><font color="Red">$6990</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="Red">$656</font></td>
+<td><a href="C:\Users\PREMIUM\Desktop\HTML\website\links\brand\frrez\Samsung\faltu.html"><center><font color="Red">$1,190</font></td>
+</tr>
+</table>
+<h3><center><b>Electronic Gadgets: The One-stop Shopping Destination</b></h3>
+<p>E-commerce is revolutionizing the way we all shop in India. Why do you want to hop from one store to 
+another in search of the latest phone when you can find it on the Internet in a single click? Not only<br>
+mobiles. Electronic gadgets houses everything you can possibly imagine, from trending electronics like 
+laptops, tablets, smartphones, and mobile accessories.accessories; from modern appliances that make<br>
+your life easy like washing machines, TVs, ACs, mixer grinder juicers and other time-saving kitchen. You 
+name it,and you can stay assured about finding them all here. For those of you with erratic working<br>
+hours,Flipkart is your best bet. Shop in your PJs,at night or in the wee hours of the morning. This 
+e-commerce never shuts down.
+</p>
+
+<h3><center><b>Large Appliances</b></h3>
+<p>Sleek TVs, power-saving refrigerators, rapid-cooling ACs, resourceful washing machines - discover everything 
+you need to run a house under one roof. Our Dependable TV and Appliance Store ensures zero transit damage, with
+a replacement guarantee if anything goes wrong; delivery and installation as per your convenience and a double 
+warranty (Official Brand Warranty along with an extended Flipkart Warranty) - rest assured, value for money is 
+what is promised and delivered. Shop from market leaders in the country like Samsung, LG, Whirlpool, Midea, Mi, 
+Vu, Panasonic, Godrej, Sony, Daikin, and Hitachi among many others.</p>
+<table border="0" width="100%" bgcolor="black">
+<tr><td><br><br></td></tr>
+<tr>
+<th><font color="#cococo">ABOUT</font></th>
+<th><font color="#cococo">HELP</font></th>
+<th><font color="#cococo">POLICY</font></th>
+<th><font color="#cococo">SOCIAL</font></th>
+</tr>
+<tr>
+<th><font color="white">Contact Us</font></th>
+<th><font color="white">Payments</font></th>
+<th><font color="white">Return Policy</font></th>
+<th><font color="white">Facebook</font></th>
+</tr>
+<tr>
+<th><font color="white">About Us</font></th>
+<th><font color="white">Shipping</font></th>
+<th><font color="white">Terms Of Use</font></th>
+<th><font color="white">Twitter</font></th>
+</tr>
+<tr>
+<th><font color="white">Careers</font></th>
+<th><font color="white">Cancellation & Return</font></th>
+<th><font color="white">Security</font></th>
+<th><font color="white">YouTube</font></th>
+</tr>
+<tr>
+<th><font color="white">Flipkart Stories</font></th>
+<th><font color="white">FAQ</font></th>
+<th><font color="white">Privacy</font></th>
+</tr>
+<tr>
+<th><font color="white">Press</font></th>
+<th><font color="white">Report Infringement</font></th>
+<th><font color="white">Sitemap</font></th>
+</tr>
+<tr>
+<td colspan="4"><br><hr></td></tr>
+</table>
+<table border="0" width="100%" bgcolor="black">
+<tr>
+<th><font color="#cococo">Mail Us:</font></th>
+<th><font color="#cococo">Registered Office Address:</font></th>
+</tr>
+<tr>
+<td><center><font color="white">
+Electronic Gadgets Internet Private Limited,<br>
+Buildings Alyssa, Begonia &<br>
+Clove Embassy Tech Village,<br>
+Outer Ring Road, Devarabeesanahalli Village,<br>
+surat, 395004,<br>
+Gujarat, India.<br>Email Id:
+Electronicgadgets2020@gmail.com</font></td>
+<td><center><font color="white">
+<br>Electronic Gadgets Internet Private Limited,<br>
+Buildings Alyssa, Begonia &<br>
+Clove Embassy Tech Village,<br>
+Outer Ring Road, Devarabeesanahalli Village,<br>
+Bengaluru, 560103,<br>
+Karnataka, India<br>
+CIN : U51109KA2012PTC066107<br>
+Telephone: 1800 208 9898
+</font></td>
+</tr>
+</table>
+<table border="0" width="100%" bgcolor="black">
+<tr><td><br></td></tr>
+<tr>
+<td><center><font color="white">
+©All Rights Reserved 2020
+</font>
+</td>
+</tr>
+</table>
+<script>
+
+var myIndex=0;
+carousel();
+function carousel() {
+var i;
+var x=document.getElementsByClassName("mySlides");
+for(i=0;i<x.length;i++) {
+	x[i].style.display="none";
+}
+myIndex++;
+	if (myIndex > x.length) {myIndex=1}
+	x[myIndex-1].style.display="block";
+	setTimeout(carousel, 3000);
+}
+
+</script>
+
+<script>
+// set the last date
+var countDownDate = new Date("march 22,2020 15:37:25").getTime();
+
+//every second update time
+var x=setInterval(function() {
+
+//get today's date and time 
+var now=new Date().getTime();
+
+//distance count
+var distance = countDownDate - now;
+
+//Time calculation for days, hours,minutes,second
+var days=Math.floor(distance / (1000 * 60 * 60 * 24));
+var hours=Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+var minutes=Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+var second=Math.floor((distance % (1000 * 60)) / 1000);
+
+//output
+document.getElementById("demo").innerHTML = days + "d " + hours + "h " + minutes + "m " + second + "s ";
+
+if(distance < 0)
+{
+clearInterval(x);
+document.getElementById("demo").innerHTML = "EXPIRED";
+}
+}, 1000);
+</script>
+
+<script>
+function myFunction(){
+	document.getelementById("myDropdown").classList.toggle("show");
+}
+function filterFunction() {
+var input,filter,ul,li,a,i;
+input = document.getElementById("myInput");
+filter = input.value.toUpperCase();
+div = document.getElementById("myDropdown");
+a= div.getElementByTagName("a");
+for(i = 0; i<a.length; i++)
+{
+txtValue = a[i].textContent || a[i].innerText;
+if (textValue.toUpperCase().indexOf(filter) > -1) {
+a[i].style.display = "";
+}
+else {
+a[i].style.display = "none";
+}
+}
+}
+</script>
+</body>
+</html>
+
